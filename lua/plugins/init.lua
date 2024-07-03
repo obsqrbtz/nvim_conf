@@ -22,7 +22,7 @@ return {
   		ensure_installed = {
   			"lua-language-server", "stylua",
   			"html-lsp", "css-lsp" , "prettier", "clangd",
-        "csharp_ls"
+        "csharp-language-server"
   		},
   	},
   },
